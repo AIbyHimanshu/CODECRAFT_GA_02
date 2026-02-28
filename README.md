@@ -21,7 +21,7 @@ This repository contains my solution for **Task 02: Image Generation with Pre-tr
 - Resolution used: **768px**
 - Generated **2 images per prompt**
 
-> Both models were run on **Google Colab (Tesla T4 GPU)**.
+> Both models were run on **Google Colab (T4 GPU)**.
 
 ---
 
