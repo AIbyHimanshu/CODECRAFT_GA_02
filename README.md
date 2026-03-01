@@ -79,3 +79,13 @@ This chart includes:
 ├── task02_comparison_chart.png
 ├── outputs
 └── README.md
+```
+
+---
+
+## References
+
+- [High-performance image generation using Stable Diffusion](https://www.tensorflow.org/tutorials/generative/generate_images_with_stable_diffusion)
+- [DALL-E Mini Image Generator: Create Digital Art with from Text Prompts](https://colab.research.google.com/github/robgon-art/e-dall-e/blob/main/DALL_E_Mini_Image_Generator.ipynb)
+
+---
